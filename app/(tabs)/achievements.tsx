@@ -1,0 +1,1 @@
+// User's earned badges, milestones, and environmental impact stats 
